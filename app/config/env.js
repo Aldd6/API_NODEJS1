@@ -1,5 +1,5 @@
 const env = {
-    database: "antigua_umg2024_25514",
+    database: "antigua_umg2024_25514_xylt",
     username: "antigua_umg2024_25514_xylt_user",
     password: "UnFtytANE09I74ZAQUqhJOksn6tj6Z1s",
     host: "dpg-cr6jn5tds78s73buqthg-a.oregon-postgres.render.com",
